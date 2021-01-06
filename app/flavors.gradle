@@ -1,0 +1,30 @@
+android {
+  defaultConfig {
+    buildConfigField("int", "DB_SCHEMA_VERSION", DB_SCHEMA_VERSION)
+
+    buildConfigField "String",  "HTTPS",                "\"https\""
+    buildConfigField "String",  "HTTP",                 "\"http\""
+    buildConfigField "int",     "PORT_GRPC",            "3000"
+
+    // FIXME should delete
+    buildConfigField "String",  "MUSIC_ENDPOINT",        "\"scds.saregama.com/apis/carvaan_apps\""
+  }
+
+  flavorDimensions "develop"
+  productFlavors {
+    develop {
+      dimension "develop"
+      resValue "string", "app_name", "Muisc Dev"
+      manifestPlaceholders = [domain: 'carvaan']
+    }
+    staging {
+      dimension "develop"
+      resValue "string", "app_name", "Muisc Stg"
+      manifestPlaceholders = [domain: 'carvaan']
+    }
+    production {
+      resValue "string", "app_name", "Muisc"
+      manifestPlaceholders = [domain: 'carvaan']
+    }
+  }
+}

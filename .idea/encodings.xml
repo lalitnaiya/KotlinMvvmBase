@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/App.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/di" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/room" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/ui/component/adapter" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/ui/component/binding" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/ui/component/callback" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/ui/component/notification" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/ui/component/service" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/ui/component/widget" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/AppError.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ApplicationJsonAdapterFactory.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ApplicationJsonAdapterFactory.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/Display.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ErrorHandler.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ErrorHandler.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/InstantAdapter.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/InstantAdapter.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/Memory.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/Memory.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/Result.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/Result.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ext/ActivityExt.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ext/FlowableExt.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ext/FlowableExt.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ext/StreamObserverExt.kt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/saregama/mvvmmusicapp/util/ext/ViewExt.kt" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
